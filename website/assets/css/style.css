@@ -1,3 +1,25 @@
 body{
     background: #BDBDBD;
 }
+.box {
+    width: 70%;
+    /* height: 250px; */
+    margin: 0 auto;
+    padding: 20px 25px;
+    border: solid 1px grey;
+    border-radius: 2px;
+    background-color: #DBDBDB;
+}
+.form-control {
+    border: solid grey 1px;
+}
+.container-fluid {
+    padding: 50px 100px;
+}
+.col-form-label {
+    text-align: end;
+}
+.p-1{
+    font-size: 20px;
+}
+
