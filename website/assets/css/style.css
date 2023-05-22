@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+.card {
+    border: none;
+    border-radius: 0;
+}
+.p-1{
+    font-size: 20px;
+}
