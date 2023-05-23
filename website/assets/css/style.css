@@ -26,6 +26,17 @@ body{
 .col-form-label {
     text-align: end;
 }
+hr{
+    color:#fffcfc;
+    margin-bottom: 50px;
+    
+    
+}
+.div-firstH, hr{
+    width: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 /* .p-1{
     font-size: 20px;
 } *
