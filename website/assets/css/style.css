@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 .carta {
     border: none !important; 
@@ -27,12 +27,13 @@ body{
     text-align: end;
 }
 hr{
-    color:#fffcfc;
+    color:#574d4d;
     margin-bottom: 50px;
+    width: 90%;
     
     
 }
-.div-firstH, hr{
+.div-firstH, .div-servicios{
     width: 90%;
     margin-left: 10%;
     margin-right: 10%;
