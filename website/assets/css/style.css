@@ -1,6 +1,13 @@
 body{
     background: #BDBDBD;
 }
+.card {
+    border: none;
+    border-radius: 0;
+}
+.p-1{
+    font-size: 20px;
+}
 .box {
     width: 70%;
     /* height: 250px; */
